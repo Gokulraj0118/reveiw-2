@@ -22,14 +22,14 @@
   }
  
   header {
-    background: #333;
+    background: #201f1f;
     color: #fff;
     padding: 20px;
     text-align: center;
   }
   
   nav {
-    background: #080808;
+    background: #0d0d0d;
     padding: 10px;
   }
   
@@ -47,7 +47,7 @@
   }
   
   #banner {
-    background: #524f4f;
+    background: #e9e4e4;
     text-align: center;
     padding: 40px;
   }
@@ -55,7 +55,7 @@
   .btn {
     display:inline-block;
     background: #030303;
-    color: #c7d2c4;
+    color:white;
     padding: 10px 20px;
     margin-top: 20px;
   }
